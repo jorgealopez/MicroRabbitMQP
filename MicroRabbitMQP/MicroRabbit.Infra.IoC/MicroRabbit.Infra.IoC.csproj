@@ -13,6 +13,8 @@
     <ProjectReference Include="..\MicroRabbitMQP.Banking.Application\MicroRabbitMQP.Banking.Application.csproj" />
     <ProjectReference Include="..\MicroRabbitMQP.Banking.Data\MicroRabbitMQP.Banking.Data.csproj" />
     <ProjectReference Include="..\MicroRabbitMQP.Banking.Domain\MicroRabbitMQP.Banking.Domain.csproj" />
+    <ProjectReference Include="..\MicroRabbitMQP.Transfer.Application\MicroRabbitMQP.Transfer.Application.csproj" />
+    <ProjectReference Include="..\MicroRabbitMQP.Transfer.Data\MicroRabbitMQP.Transfer.Data.csproj" />
     <ProjectReference Include="..\RabbitMQP.Domain.Core\MicroRabbitMQP.Domain.Core.csproj" />
   </ItemGroup>
 
